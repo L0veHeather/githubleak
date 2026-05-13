@@ -10,7 +10,7 @@ PROJECT_NAME = "github-leak-detection-test"
 
 USER_PROFILE = {
     "ucid": "29365524",
-    "role_phone": "18912816336",
+    "role_phone": "18812382213",
     "environment": "github_leak_test",
 }
 
