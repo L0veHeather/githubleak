@@ -7,6 +7,7 @@ Do not use these values in production systems.
 """
 
 PROJECT_NAME = "github-leak-detection-test"
+github-leak-detcetion-test
 
 USER_PROFILE = {
     "ucid": "29365524",
